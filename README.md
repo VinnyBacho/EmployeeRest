@@ -29,7 +29,7 @@ curl --location --request POST 'http://localhost:8081/employees/save' \
     "firstName": "Vincent",
     "middleInitial": "C",
     "lastName": "Bacho",
-    "dateOfBirth": "1997-08-12",
+    "dateOfBirth": "1997-02-01",
     "dateOfEmployment": "2022-02-01",
     "status": "ACTIVE"
 }'
