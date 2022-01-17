@@ -1,0 +1,98 @@
+[
+  {
+    "firstName": "Christensen",
+    "middleInitial": "G",
+    "lastName": "Hobbs",
+    "dateOfBirth": "1987-03-14",
+    "dateOfEmployment": "2005-07-04",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Mckinney",
+    "middleInitial": "N",
+    "lastName": "Lucas",
+    "dateOfBirth": "1956-03-05",
+    "dateOfEmployment": "2011-10-06",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Yolanda",
+    "middleInitial": "R",
+    "lastName": "May",
+    "dateOfBirth": "1980-08-22",
+    "dateOfEmployment": "2020-02-18",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Weeks",
+    "middleInitial": "Q",
+    "lastName": "Reed",
+    "dateOfBirth": "1987-12-12",
+    "dateOfEmployment": "2014-03-07",
+    "status": "INACTIVE"
+  },
+  {
+    "firstName": "Francis",
+    "middleInitial": "G",
+    "lastName": "Marshall",
+    "dateOfBirth": "1959-09-11",
+    "dateOfEmployment": "2011-11-25",
+    "status": "INACTIVE"
+  },
+  {
+    "firstName": "Brandie",
+    "middleInitial": "I",
+    "lastName": "Holmes",
+    "dateOfBirth": "1995-11-14",
+    "dateOfEmployment": "2006-11-07",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Letitia",
+    "middleInitial": "F",
+    "lastName": "Gordon",
+    "dateOfBirth": "1982-03-27",
+    "dateOfEmployment": "2019-12-27",
+    "status": "INACTIVE"
+  },
+  {
+    "firstName": "Violet",
+    "middleInitial": "R",
+    "lastName": "Hicks",
+    "dateOfBirth": "1954-06-05",
+    "dateOfEmployment": "2013-01-21",
+    "status": "INACTIVE"
+  },
+  {
+    "firstName": "Kristie",
+    "middleInitial": "K",
+    "lastName": "Torres",
+    "dateOfBirth": "1952-05-21",
+    "dateOfEmployment": "2007-10-08",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Randall",
+    "middleInitial": "M",
+    "lastName": "Parrish",
+    "dateOfBirth": "1968-01-28",
+    "dateOfEmployment": "2010-10-11",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Lynette",
+    "middleInitial": "N",
+    "lastName": "Mcconnell",
+    "dateOfBirth": "1969-07-30",
+    "dateOfEmployment": "2021-07-21",
+    "status": "INACTIVE"
+  },
+  {
+    "firstName": "Kristine",
+    "middleInitial": "L",
+    "lastName": "Willis",
+    "dateOfBirth": "1966-03-05",
+    "dateOfEmployment": "2013-08-08",
+    "status": "ACTIVE"
+  }
+]
